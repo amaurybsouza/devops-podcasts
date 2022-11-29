@@ -32,9 +32,6 @@ The GSI Tools projects is a BIG environment create by support some initiatives i
 - Python
 - Account IBM Cloud
 
-2. Just a bit attention to create your API_KEY on IBMCloud portal to connect into IBM portal via CLI. You need access this [link](https://cloud.ibm.com/iam/overview) and create your API_KEY on IBM Cloud.
-
-3. After you have create the API_KEY, please past the same on the Shell Script and prepare to execute.
 
 ### Installation
 
