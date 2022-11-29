@@ -12,6 +12,8 @@
 # 🎧DevOps Podcasts
 The purpose of this repository is keep you in touch with all the DevOps podcasts related to tech, culture, tools, that take place in Brazil and around the world. You can help on this adding more events, just make sure you checked the collaborations session below.
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs.
