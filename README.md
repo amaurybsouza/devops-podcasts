@@ -22,15 +22,10 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 
 <!-- GETTING STARTED -->
 ## Getting Started
-The GSI Tools projects is a BIG environment create by support some initiatives inside FMS area.
+This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs.
 
 ### Pre-requisites
 1. Below there are some tools that we will use and how to install them.
-
-- Ansible
-- WSL v2 (LINUX OS)
-- Python
-- Account IBM Cloud
 
 
 ### Installation
