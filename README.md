@@ -17,7 +17,7 @@ The purpose of this repository is keep you in touch with all the DevOps podcasts
 ## About The Project
 This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs around the world.
 
-- Kubernetes ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Kubernetes 
 - Tech/Career
 - Cloud Providers
 - SRE/DevOps
@@ -26,27 +26,6 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 ## Getting Started
 - [x] [Orange Juice](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd): (O SRE e os riscos do projeto com Fernando Ike, *dez. de 2021 - 40min:32s*) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
 - [x] *Orange Juice*: [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-- [ ] 
-<!-- USAGE EXAMPLES -->
-## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-<!-- ROADMAP -->
-## Roadmap
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -61,12 +40,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <!-- LICENSE -->
 ## License
-
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-
 
 <!-- CONTACT -->
 ## Contact
