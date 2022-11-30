@@ -24,21 +24,13 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 
 <!-- GETTING STARTED -->
 ## Getting Started
-This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs.
+### 2022
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
-- [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) - *Orange Juice*
+#### November
+- [x] [Orange Juice](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd): (O SRE e os riscos do projeto com Fernando Ike, *40min:32s*) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
+- [x] *Orange Juice*: [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-
-
-
-### Pre-requisites
-1. Below there are some tools that we will use and how to install them.
-
-
-### Installation
-
-
+### 2023
 <!-- USAGE EXAMPLES -->
 ## Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -76,7 +68,8 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-Distributed under the GPL License. See `LICENSE.txt` for more information.
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
 <!-- CONTACT -->
