@@ -24,8 +24,8 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 
 <!-- GETTING STARTED -->
 ## Getting Started
-- [x] [Orange Juice - O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd), *40min:32s - dez. de 2021* ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
-- [x] *KUBECAST*: [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd), *40min:32s - dez. de 2021* ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+- [x] [Orange Juice - O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) - *40min:32s - dez. de 2021* ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
+- [x] *KUBECAST*: [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) - *40min:32s - dez. de 2021* ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 <!-- CONTRIBUTING -->
 ## Contributing
