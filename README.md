@@ -22,9 +22,6 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 - Cloud Providers
 - SRE/DevOps
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs.
@@ -36,17 +33,11 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 ### Installation
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -60,8 +51,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -78,18 +67,12 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
 Distributed under the GPL License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 Amaury Borges Souza - amauryborgesouza@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
