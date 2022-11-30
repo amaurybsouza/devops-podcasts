@@ -26,6 +26,12 @@ This is a BIG repository to keep and #save all the main podcasts related to DevO
 ## Getting Started
 This is a BIG repository to keep and #save all the main podcasts related to DevOps culture and tech jobs.
 
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
+- [O SRE e os riscos do projeto com Fernando Ike](https://open.spotify.com/episode/2faHtcnnoY5DM5GJEKzWsb?si=b27d1f23fa2c42cd) - *Orange Juice*
+
+
+
+
 ### Pre-requisites
 1. Below there are some tools that we will use and how to install them.
 
